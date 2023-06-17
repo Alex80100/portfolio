@@ -206,6 +206,7 @@ header h2{
 
 .skills .appear {
     text-align : center;
+    transition-delay: 0.5ss;
 }
 
 .skills p{
@@ -273,6 +274,10 @@ header h2{
     font-size: 2rem;
     margin-top: 1.5vw;
     color: #fefeff;
+}
+
+#l2{
+    transition-delay: 1.2s;
 }
 
 footer{
